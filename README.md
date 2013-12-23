@@ -1,4 +1,6 @@
-open-in-sublime
-===============
+# Open in Sublime
 
-Open a folder in Sublime Text
+
+Simple Alfred workflow to open a folder in Sublime Text.
+
+    sub FOLDER_NAME
